@@ -21,3 +21,4 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %{_bindir}/%{name}
+
