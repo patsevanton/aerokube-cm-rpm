@@ -1,7 +1,7 @@
 %global _prefix /usr/local
 
 Name:    aerokube-cm
-Version: 1.5.7
+Version: 1.6.0
 Release: 1
 Summary: Configuration manager for Aerokube products https://aerokube.com/cm/latest/
 Group:   Development Tools
