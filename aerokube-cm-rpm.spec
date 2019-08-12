@@ -20,3 +20,4 @@ cp cm_linux_amd64 %{buildroot}%{_bindir}/%{name}
 
 %files
 %{_bindir}/%{name}
+
