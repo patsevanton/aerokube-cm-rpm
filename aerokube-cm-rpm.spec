@@ -14,8 +14,6 @@ Configuration manager is used to automate installation of Aerokube products.
 %prep
 echo "curl -L %{url} > cm_linux_amd64"
 curl -L %{url} > cm_linux_amd64
-ls
-pwd
 
 %install
 %{__install} -m 0755 -d %{buildroot}%{_bindir}
