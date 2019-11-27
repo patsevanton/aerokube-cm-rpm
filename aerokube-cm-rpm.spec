@@ -6,6 +6,7 @@ Release: 2
 Summary: Configuration manager for Aerokube products https://aerokube.com/cm/latest/
 Group:   Development Tools
 License: ASL 2.0
+Source0: build.sh
 URL: https://github.com/aerokube/cm/releases/download/%{version}/cm_linux_amd64
 
 %description
